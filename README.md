@@ -2,17 +2,17 @@
 
 REGRESSION TASK 
 
-Training data: n=168, test data: n=43 with 6 features
+Training data (n=168) and test data (n=43) 
 
-Target variable:
+Features: 6, target variable:
 - Support Vector Regression (SVR)
 - Random Forest Classifier (RFC)
 
 CLASSIFICATION TASK 
 
-Training data: n=600, test data: n=33 with 112 features
+Training data (n=600) and test data (n=33) 
 
-Target variable:
+Features: 112, target variable:
 - Random Forest Classifier (RFC)
 - Extra Trees Classifier (RFE)
 
