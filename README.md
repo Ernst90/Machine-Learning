@@ -6,7 +6,7 @@ Training data (n=168) and test data (n=43)
 
 Features: 6, target:
 - Support Vector Regression (SVR)
-- Random Forest Classifier (RFC)
+- Random Forest Classifier (RFR)
 
 CLASSIFICATION TASK 
 
