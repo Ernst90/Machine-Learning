@@ -2,17 +2,17 @@
 
 REGRESSION TASK 
 
-Training data (n=168) and test data (n=43) 
+Training data (n=168) & test data (n=43) 
 
-Features: 6, target:
+Features: 6, target:PRP
 - Support Vector Regression (SVR)
 - Random Forest Classifier (RFR)
 
 CLASSIFICATION TASK 
 
-Training data (n=600) and test data (n=33) 
+Training data (n=600) & test data (n=33) 
 
-Features: 112, target:
+Features: 112, target:EpiOrStroma
 - Random Forest Classifier (RFC)
 - Extra Trees Classifier (RFE)
 
