@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Kaggle competition: Implementation of regression and classification algorithms in Python to predict the target variable of two distinct datasets. 
+Project: Kaggle competition & implementation of regression and classification algorithms in Python to predict the target variable of two distinct datasets. 
 
 REGRESSION TASK 
 
